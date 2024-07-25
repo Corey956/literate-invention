@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Windows的python配置
-categories: [前端]
+categories: [Windows]
 extMath: true
 
 ---
