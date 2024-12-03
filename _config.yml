@@ -5,7 +5,7 @@ title: Corey
 description: Corey的个人博客
 keywords: Corey,Blog,Java,Html,JavaScript
 author: Corey
-footerText: Test'
+footerText: Copyright © 2018 粤ICP备2024241839号
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
